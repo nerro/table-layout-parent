@@ -3,6 +3,7 @@ Introduction
 
 This project contains share parent POM for 'table-layout' and 'table-layout-example' projects.
 
+
 Usage
 =====
 
