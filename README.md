@@ -1,6 +1,8 @@
 Introduction
 ============
 
+[![Build Status](https://travis-ci.org/nerro/table-layout-parent.svg?branch=master)](https://travis-ci.org/nerro/table-layout-parent)
+
 This project contains share parent POM for 'table-layout' and 'table-layout-example' projects.
 
 
