@@ -1,0 +1,37 @@
+#################################
+# Compiled source               #
+#################################
+bin/
+build/
+dist/
+target/
+*.class
+
+#################################
+# IDE generated files           #
+#################################
+.settings/
+.classpath
+.project
+nbproject/private/
+nbbuild/
+nbdist/
+nbactions.xml
+nb-configuration.xml
+.idea/
+*.iws
+*.iml
+
+#################################
+# Logs and temp files           #
+#################################
+*.log
+*.tmp
+*~
+
+#################################
+# OS generated files            #
+#################################
+Thumbs.db
+.directory
+.DS_Store
